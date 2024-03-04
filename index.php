@@ -17,7 +17,7 @@
 
             <?php 
                 // example URL: http://localhost:8000/index.php?name=Tante%20Frieda&email=frieda@mail.com&tel=028309283098
-                print_r($_GET);
+                //print_r($_GET);
             ?>
 
             <h1>Hallo, Vakantieganger</h1>
